@@ -1,4 +1,4 @@
-# 🍽️ Smart Canteen Queue Management System
+#  Smart Canteen Queue Management System
 
 A full-stack web application that helps customers order food from a canteen while allowing staff to manage orders, food availability, and waiting time in real time.
 
@@ -10,7 +10,7 @@ The project consists of:
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```
 Canteen/
@@ -53,9 +53,9 @@ Canteen/
 
 ---
 
-# 🚀 Features
+#  Features
 
-## 👨‍🍳 Customer Website
+##  Customer Website
 
 Customers can:
 
@@ -69,7 +69,7 @@ Customers can:
 
 ---
 
-## 👩‍💼 Staff Website
+##  Staff Website
 
 Staff members can:
 
@@ -83,7 +83,7 @@ Staff members can:
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 ### Frontend
 
@@ -109,7 +109,7 @@ Staff members can:
 ---
 
 
-# 💻 Project Modules
+#  Project Modules
 
 ## Customer
 
@@ -129,7 +129,7 @@ Staff members can:
 
 ---
 
-# 📌 API Features
+#  API Features
 
 - Create Orders
 - Get Orders
@@ -140,7 +140,7 @@ Staff members can:
 
 ---
 
-# 🎯 Advantages
+#  Advantages
 
 - Reduces customer waiting time
 - Improves queue management
@@ -151,10 +151,12 @@ Staff members can:
 
 ---
 
-# 👨‍💻 Developed By
+#  Developed By
 
-**Sreekuttan C ,Sidharth kishore **
+**Sreekuttan C ,Sidharth kishore (https://github.com/Sidharth-maker) **
 
 Built using React, Node.js, Express.js, MongoDB, Vite, and Python.
+
+The project is functional for basic order placement and staff order management. Additional features are currently being developed and will be added in future updates.
 
 ---
